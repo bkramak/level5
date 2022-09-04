@@ -34,6 +34,18 @@ placeholder github site to record suggested level 5 categories
 |  | 6.7 Avian or other biological  | U      |A       | N      |         | A              |
 | Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | A              |
 |   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | A              |
+| Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |A       | N      |         | A              |
+|   | 8.2 Annual/ semi annual | U      |A       | N      |         | A              |
+|   | 8.3 Startup / EOW | U      |A       | N      |         | A              |
+|   | 8.4 Other | U      |A       | N      |         | A              |
+
+
+
+
+
+
+
+
 
 
 
