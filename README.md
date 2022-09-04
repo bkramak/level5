@@ -8,7 +8,7 @@ placeholder github site to record suggested level 5 categories
 | :-------------- | :---------------- | :----: | :----: | :-----: | :-----: | :------------: |
 | Full Performance <br>(IAOSFP)| no sub category    | A      |A       |A        |         | A              |
 | Partial Performance <br>(IAOSPP)| 2.1 Derated internal – OEM operational requirement (temp/TI/etc.)    | A      |A       |A        |         | A              |
-|    | 2.2 Derated external – noise   | A      |A       |A        |         | A              |
+|    | 2.2 Derated external – noise   | A      |A       |A        |         |X             |
 |    | 2.3 Derated external – grid curtailment   | A      |A       |A        |         | A              |
 |    | 2.4 Degraded physical condition (blade issues, other)  | A      |A       |A        |         | A              |
 |    | 2.5 Degraded environmental condition (icing, soiling)   | A      |A       |A        |         | A              |
