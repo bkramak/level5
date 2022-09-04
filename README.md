@@ -18,20 +18,20 @@ placeholder github site to record suggested level 5 categories
 | Ready Standby <br>(IAOSRS)   | 3. Ready to function (not used at the turbine level)  | A      |A       |X        |         | X              |
 | Technical Standby <br>(IAOOSTS)   | 4.1 Automated maintenance: Cable unwind, pitch testing, etc.  | U      |A       |U       |         | A              |
 |    | 4.2 Recovery from IAOOSEN after condition clears | U      |A       |U/N        |         | A              |
-|  Out of Environmental Spec (IAOOSEN)  | 5.1 Calm winds  | U      |A       |  N       |       | A   |
-|    | 5.2 High winds   | U      |A       | N      |         | A              |
-|    | 5.3 Icing offline  | U      |A       | N/U      |         | A              |
+|  Out of Environmental Spec (IAOOSEN)  | 5.1 Calm winds  | U      |A       |  N       |       | N   |
+|    | 5.2 High winds   | U      |A       | N      |         | N              |
+|    | 5.3 Icing offline  | U      |A       | N/U      |         | U              |
 |    | 5.4 Common lightning event  | U      |A       | U/N      |         | A              |
-|    | 5.5 High temperature   | U      |A       | N      |         | A              |
-|    | 5.6 Low temperature   | U      |A       | N      |         | A              |
-|    | 5.7 Other environmental   | U      |A       | N      |         | A              |
-| Requested Shutdown <br> (IAOOSRS) | 6.1 Owner-directed shutdown <br>– visit / training / other   | U      |A       | U     |         | A              |
-|  | 6.2 OEM-directed non-maintenance shutdown <br>– visit/ training/ other  | U      |A       | U      |         | A              |
-|  | 6.3 OEM-directed wind sector/load management | U      |A       | U      |         | A              |
-|  | 6.4 Grid operator (curtailed non- reimbursed)  | U      |A       | N      |         | A              |
-|  | 6.5 Grid operator (curtailed reimbursed) | U      |A       | N      |         | A              |
-|  | 6.6 Noise  | U      |A       | N      |         | A              |
-|  | 6.7 Avian or other biological  | U      |A       | N      |         | A              |
+|    | 5.5 High temperature   | U      |A       | N      |         | N             |
+|    | 5.6 Low temperature   | U      |A       | N      |         | N              |
+|    | 5.7 Other environmental   | U      |A       | N      |         | N              |
+| Requested Shutdown <br> (IAOOSRS) | 6.1 Owner-directed shutdown <br>– visit / training / other   | U      |A       | U     |         | U             |
+|  | 6.2 OEM-directed non-maintenance shutdown <br>– visit/ training/ other  | U      |A       | U      |         | U             |
+|  | 6.3 OEM-directed wind sector/load management | U      |A       | U      |         | X              |
+|  | 6.4 Grid operator (curtailed non- reimbursed)  | U      |A       | N      |         | X              |
+|  | 6.5 Grid operator (curtailed reimbursed) | U      |A       | N      |         | X              |
+|  | 6.6 Noise  | U      |A       | N      |         | X             |
+|  | 6.7 Avian or other biological  | U      |A       | N      |         | X             |
 | Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | A              |
 |   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | A              |
 | Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |N       | U     |         | U             |
