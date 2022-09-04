@@ -37,7 +37,7 @@ placeholder github site to record suggested level 5 categories
 | Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |N       | U     |         | U             |
 |   | 8.2 Annual/ semi annual | U      |N       | U      |         | U              |
 |   | 8.3 Startup / EOW | U      |N      | U      |         | U              |
-|   | 8.4 Other | U      |A       | N      |         | A              |
+|   | 8.4 Other | U      |N       | U      |         | U              |
 | Planned Corrective Action (IANOPCA)  | 9.1 Action to correct Forced Outage, once scheduled and parts on hand | U      |U      | U      |         | U              |
 |   | 9.2 Retrofit/upgrade charge to owner | U      |U       | U     |         | U             |
 |   | 9.3 Retrofit/upgrade charge to OEM | U      |U       | U     |         | U              |
