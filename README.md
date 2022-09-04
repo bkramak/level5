@@ -32,8 +32,8 @@ placeholder github site to record suggested level 5 categories
 |  | 6.5 Grid operator (curtailed reimbursed) | U      |A       | N      |         | X              |
 |  | 6.6 Noise  | U      |A       | N      |         | X             |
 |  | 6.7 Avian or other biological  | U      |A       | N      |         | X             |
-| Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | A              |
-|   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | A              |
+| Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | U             |
+|   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | U             |
 | Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |N       | U     |         | U             |
 |   | 8.2 Annual/ semi annual | U      |N       | U      |         | U              |
 |   | 8.3 Startup / EOW | U      |N      | U      |         | U              |
