@@ -34,9 +34,9 @@ placeholder github site to record suggested level 5 categories
 |  | 6.7 Avian or other biological  | U      |A       | N      |         | A              |
 | Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | A              |
 |   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | A              |
-| Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |A       | N      |         | A              |
-|   | 8.2 Annual/ semi annual | U      |A       | N      |         | A              |
-|   | 8.3 Startup / EOW | U      |A       | N      |         | A              |
+| Scheduled Maintenance (IANOSM)  | 8.1 Monthly/quarterly| U      |N       | U     |         | U             |
+|   | 8.2 Annual/ semi annual | U      |N       | U      |         | U              |
+|   | 8.3 Startup / EOW | U      |N      | U      |         | U              |
 |   | 8.4 Other | U      |A       | N      |         | A              |
 | Planned Corrective Action (IANOPCA)  | 9.1 Action to correct Forced Outage, once scheduled and parts on hand | U      |U      | U      |         | U              |
 |   | 9.2 Retrofit/upgrade charge to owner | U      |U       | U     |         | U             |
