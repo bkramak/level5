@@ -48,34 +48,14 @@ placeholder github site to record suggested level 5 categories
 | Suspended (IANOS)  | 11.1 Awaiting parts – supply issue (for sched., planned, or forced) | U      |A       | N      |         | A              |
 |   | 11.2 Awaiting serial defect resolution (for planned corrective) | U      |A       | N      |         | A              |
 |   | 11.3 Other reason incl. site access | U      |A       | N      |         | A              |
-|   | 10.4 Failure repair | U      |A       | N      |         | A              |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|  Force Majeure (IAFM) | 12.1 Weather Event - Tornado, Hurricane | U      |A       | N      |         | A              |
+|  | 12.2 Fire – equipment, general area| U      |A       | N      |         | A              |
+|  | 12.3 Earthquake, flood | U      |A       | N      |         | A              |
+|  | 12.4 Pandemic / Epidemic| U      |A       | N      |         | A              |
+|  | 12.5 Civil Unrest| U      |A       | N      |         | A              |
+|  | 12.6 Extreme lightning event | U      |A       | N      |         | A              |
+|  | 12.7 Other “Act of God” or insured events | U      |A       | N      |         | A              |
+|  | 12.1 Weather Event - Tornado, Hurricane | U      |A       | N      |         | A              |
 
 
 
