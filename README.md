@@ -55,6 +55,6 @@ placeholder github site to record suggested level 5 categories
 |  | 12.5 Civil Unrest| U      |A       | N      |         | A              |
 |  | 12.6 Extreme lightning event | U      |A       | N      |         | A              |
 |  | 12.7 Other “Act of God” or insured events | U      |A       | N      |         | A              |
-| Information Unavailable (IU) | 13.1 No communications / missing datapoint | U      |A       | N      |         | A              |
-| | 13.2 Spurious reading | U      |A       | N      |         | A              |
+| Information Unavailable (IU) | 13.1 No communications / missing datapoint | N     |N       | U/N      |         | N              |
+| | 13.2 Spurious reading | N      |N       | U/N      |         | N              |
 
