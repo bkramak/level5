@@ -41,10 +41,10 @@ placeholder github site to record suggested level 5 categories
 | Planned Corrective Action (IANOPCA)  | 9.1 Action to correct Forced Outage, once scheduled and parts on hand | U      |A       | N      |         | A              |
 |   | 9.2 Retrofit/upgrade charge to owner | U      |A       | N      |         | A              |
 |   | 9.3 Retrofit/upgrade charge to OEM | U      |A       | N      |         | A              |
-| Forced Outage (IANOFO)  | 10.1 Response delay | U      |A       | N      |         | A              |
-|   | 10.2 Diagnostic time & awaiting parts (under normal conditions) | U      |A       | N      |         | A              |
-|   | 10.3 Logistical delay | U      |A       | N      |         | A              |
-|   | 10.4 Failure repair | U      |A       | N      |         | A              |
+| Forced Outage (IANOFO)  | 10.1 Response delay | U      |U      |U      |         | U             |
+|   | 10.2 Diagnostic time & awaiting parts (under normal conditions) | U      |U       | U     |         | U             |
+|   | 10.3 Logistical delay | U      |U       | U      |         | U              |
+|   | 10.4 Failure repair | U      |U       | U      |         | U             |
 | Suspended (IANOS)  | 11.1 Awaiting parts – supply issue (for sched., planned, or forced) | U      |N       | U     |         | X             |
 |   | 11.2 Awaiting serial defect resolution (for planned corrective) | U      |N      | U     |         | X             |
 |   | 11.3 Other reason incl. site access | U      |N       | U/N      |         |X              |
