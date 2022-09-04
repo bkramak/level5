@@ -38,6 +38,17 @@ placeholder github site to record suggested level 5 categories
 |   | 8.2 Annual/ semi annual | U      |A       | N      |         | A              |
 |   | 8.3 Startup / EOW | U      |A       | N      |         | A              |
 |   | 8.4 Other | U      |A       | N      |         | A              |
+| Planned Corrective Action (IANOPCA)  | 9.1 Action to correct Forced Outage, once scheduled and parts on hand | U      |A       | N      |         | A              |
+|   | 9.2 Retrofit/upgrade charge to owner | U      |A       | N      |         | A              |
+|   | 9.3 Retrofit/upgrade charge to OEM | U      |A       | N      |         | A              |
+|   | 8.4 Other | U      |A       | N      |         | A              |
+|   | 8.4 Other | U      |A       | N      |         | A              |
+
+
+
+
+
+
 
 
 
