@@ -18,8 +18,11 @@ placeholder github site to record suggested level 5 categories
 | Ready Standby <br>(IAOSRS)   | 3. Ready to function (not used at the turbine level)  | A      |A       |X        |         | X              |
 | Technical Standby <br>(IAOOSTS)   | 4.1 Automated maintenance: Cable unwind, pitch testing, etc.  | U      |A       |U       |         | A              |
 |    | 4.2 Recovery from IAOOSEN after condition clears | U      |A       |U/N        |         | A              |
-|    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
-|    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
+|  Out of Environmental Spec <br>(IAOOSEN)  | 5.1 Calm winds  | A      |A       |A        |       | A   |
+|    | 5.2 High winds   | U      |A       | N      |         | A              |
+|    | 5.2 High winds   | U      |A       | N      |         | A              |
+|    | 5.2 High winds   | U      |A       | N      |         | A              |
+|    | 5.2 High winds   | U      |A       | N      |         | A              |
 
 
 
@@ -28,4 +31,11 @@ placeholder github site to record suggested level 5 categories
 
 
 
+ 
+
+5.3 Icing offline
+5.4 Common lightning event
+5.5 High temperature
+5.6 Low temperature
+5.7 Other environmental 
 
