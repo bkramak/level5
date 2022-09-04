@@ -25,9 +25,9 @@ placeholder github site to record suggested level 5 categories
 |    | 5.5 High temperature   | U      |A       | N      |         | A              |
 |    | 5.6 Low temperature   | U      |A       | N      |         | A              |
 |    | 5.7 Other environmental   | U      |A       | N      |         | A              |
-| Requested Shutdown <br> (IAOOSRS) | 6.1 Owner-directed shutdown <br>– visit / training / other   | U      |A       | N      |         | A              |
-|  | 6.2 OEM-directed non-maintenance shutdown <br>– visit/ training/ other  | U      |A       | N      |         | A              |
-|  | 6.3 OEM-directed wind sector/load management | U      |A       | N      |         | A              |
+| Requested Shutdown <br> (IAOOSRS) | 6.1 Owner-directed shutdown <br>– visit / training / other   | U      |A       | U     |         | A              |
+|  | 6.2 OEM-directed non-maintenance shutdown <br>– visit/ training/ other  | U      |A       | U      |         | A              |
+|  | 6.3 OEM-directed wind sector/load management | U      |A       | U      |         | A              |
 |  | 6.4 Grid operator (curtailed non- reimbursed)  | U      |A       | N      |         | A              |
 |  | 6.5 Grid operator (curtailed reimbursed) | U      |A       | N      |         | A              |
 |  | 6.6 Noise  | U      |A       | N      |         | A              |
