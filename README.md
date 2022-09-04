@@ -18,10 +18,10 @@ placeholder github site to record suggested level 5 categories
 | Ready Standby <br>(IAOSRS)   | 3. Ready to function (not used at the turbine level)  | A      |A       |X        |         | X              |
 | Technical Standby <br>(IAOOSTS)   | 4.1 Automated maintenance: Cable unwind, pitch testing, etc.  | U      |A       |U       |         | A              |
 |    | 4.2 Recovery from IAOOSEN after condition clears | U      |A       |U/N        |         | A              |
-|  Out of Environmental Spec (IAOOSEN)  | 5.1 Calm winds  | A      |A       |  N       |       | A   |
+|  Out of Environmental Spec (IAOOSEN)  | 5.1 Calm winds  | U      |A       |  N       |       | A   |
 |    | 5.2 High winds   | U      |A       | N      |         | A              |
-|    | 5.3 Icing offline  | U      |A       | N      |         | A              |
-|    | 5.4 Common lightning event  | U      |A       | N      |         | A              |
+|    | 5.3 Icing offline  | U      |A       | N/U      |         | A              |
+|    | 5.4 Common lightning event  | U      |A       | U/N      |         | A              |
 |    | 5.5 High temperature   | U      |A       | N      |         | A              |
 |    | 5.6 Low temperature   | U      |A       | N      |         | A              |
 |    | 5.7 Other environmental   | U      |A       | N      |         | A              |
