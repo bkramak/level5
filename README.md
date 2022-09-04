@@ -15,11 +15,15 @@ placeholder github site to record suggested level 5 categories
 |    | 2.6 Control-related – high wind hysteresis   | A      |A       |A        |         | A              |
 |    | 2.7 Control-related – improper setting, inefficient algorithm | A      |A       |A        |         | A              |
 |    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
-| Ready Standby <br>(IAOSRS)   | 3. Ready to function (not used at the turbine level)  | A      |A       |A        |         | A              |
+| Ready Standby <br>(IAOSRS)   | 3. Ready to function (not used at the turbine level)  | A      |A       |X        |         | X              |
+| Technical Standby <br>(IAOOSTS)   | 4.1 Automated maintenance: Cable unwind, pitch testing, etc.  | U      |A       |U       |         | A              |
+|    | 4.2 Recovery from IAOOSEN after condition clears | U      |A       |U/N        |         | A              |
 |    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
 |    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
-|    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
-|    | 2.8 Control-related – plant-level control (wake or load mgmt.)   | A      |A       |A        |         | A              |
+
+
+
+
 
 
 
