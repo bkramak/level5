@@ -32,7 +32,11 @@ placeholder github site to record suggested level 5 categories
 |  | 6.5 Grid operator (curtailed reimbursed) | U      |A       | N      |         | A              |
 |  | 6.6 Noise  | U      |A       | N      |         | A              |
 |  | 6.7 Avian or other biological  | U      |A       | N      |         | A              |
-|  | 6.2 OEM-directed non-maintenance shutdown <br>– visit/ training/ other  | U      |A       | N      |         | A              |
+| Out of Electrical Specification (IAOOSEL)   | 7.1 BOP electrical issue (BOP availability) | U      |A       | N      |         | A              |
+|   | 7.2 Grid electrical issue (grid availability) | U      |A       | N      |         | A              |
+
+
+
 
 
 
