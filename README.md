@@ -48,13 +48,13 @@ placeholder github site to record suggested level 5 categories
 | Suspended (IANOS)  | 11.1 Awaiting parts – supply issue (for sched., planned, or forced) | U      |A       | N      |         | A              |
 |   | 11.2 Awaiting serial defect resolution (for planned corrective) | U      |A       | N      |         | A              |
 |   | 11.3 Other reason incl. site access | U      |A       | N      |         | A              |
-|  Force Majeure (IAFM) | 12.1 Weather Event - Tornado, Hurricane | U      |A       | N      |         | A              |
-|  | 12.2 Fire – equipment, general area| U      |A       | N      |         | A              |
-|  | 12.3 Earthquake, flood | U      |A       | N      |         | A              |
-|  | 12.4 Pandemic / Epidemic| U      |A       | N      |         | A              |
-|  | 12.5 Civil Unrest| U      |A       | N      |         | A              |
-|  | 12.6 Extreme lightning event | U      |A       | N      |         | A              |
-|  | 12.7 Other “Act of God” or insured events | U      |A       | N      |         | A              |
+|  Force Majeure (IAFM) | 12.1 Weather Event - Tornado, Hurricane | U      |N      | N      |         | N             |
+|  | 12.2 Fire – equipment, general area| U      |N      | N      |         | N              |
+|  | 12.3 Earthquake, flood | U      |N      | N      |         | N              |
+|  | 12.4 Pandemic / Epidemic| U      |N       | N      |         | N             |
+|  | 12.5 Civil Unrest| U      |N       | N      |         | N             |
+|  | 12.6 Extreme lightning event | U      |N       | N      |         | N              |
+|  | 12.7 Other “Act of God” or insured events | U      |N      | N      |         | N              |
 | Information Unavailable (IU) | 13.1 No communications / missing datapoint | N     |N       | U/N      |         | N              |
 | | 13.2 Spurious reading | N      |N       | U/N      |         | N              |
 
