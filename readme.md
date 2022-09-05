@@ -4,6 +4,6 @@ The initial effort will be to identify the categories, aligned with the standard
 
 Future work includes methods of implementation. 
 
-While turbine technology and alignment of events with IEC categories is improving, there is almost ALWAYS a requirement for human intervention, especially regarding site wide events. With these types of events, a written with start and stop dates and times and descriptions of the event can be invaluable.
+While turbine technology and alignment of events with IEC categories is improving, there is almost ALWAYS a need for human intervention, especially regarding site wide events. With these types of events, a written log with start and stop dates and times and descriptions of the event can be invaluable.
 
 
