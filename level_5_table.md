@@ -1,5 +1,5 @@
 # level5
-IEC 61400-26-1 (2019) optional level 5 suggestions
+<b>IEC 61400-26-1 (2019) optional level 5 suggestions</b>
 
 The IEC document has a few optional level 5 subcategories. This list is thought to be a possible 'max case' allowing ALL availability definition to be compared side by side with no ambiguity.  Where the IEC has 3 idenitiers, we've included 4 below to explicitly indentify losses that exist at a site and whether or not they are considered under the parent availability loss.
 
