@@ -60,6 +60,6 @@ X - not a possible loss at a specific site
 |  | 12.5 Civil Unrest| U      |N       | N      |         | N             |
 |  | 12.6 Extreme lightning event | U      |N       | N      |         | N              |
 |  | 12.7 Other “Act of God” or insured events | U      |N      | N      |         | N              |
-| Information Unavailable (IU) | 13.1 No communications / missing datapoint | N     |N       | U/N      |         | N              |
+| Information Unavailable (IU) | 13.1 No communications / missing datapoint | N     |N       | U/N      |         | U              |
 | | 13.2 Spurious reading | N      |N       | U/N      |         | N              |
 
