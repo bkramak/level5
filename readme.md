@@ -1,6 +1,6 @@
 This site is dedicated to sharing information on how to categorize lost time and energy following IEC 61400-26-1 (2019).
 
-The initial effort will be to identify the categories, aligned with the standard level 4 categories.
+The initial effort will be to identify a succint list of level 5 categories, aligned with the standard level 4 categories.
 
 Future work includes methods of implementation. 
 
